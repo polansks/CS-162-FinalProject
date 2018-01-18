@@ -2,7 +2,7 @@
 Final project for CS 162 - Introduction to Computer Science II
 
 This was the final project for my CS 162 class from the fall 2017 quarter. We had to design a text-based game using a
-space structure (i.e. moving from one space to another space) with many requirements that required us to use most of 
+space structure (i.e. moving from one space to another space) with requirements that implemented the use of most of 
 the concepts we learned throughout the course.
 
 A description of the project requirements is provided in "Project Requirements.pdf"
