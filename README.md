@@ -10,5 +10,6 @@ A description of the project requirements is provided in "Project Requirements.p
 The concept I chose was of a scientist in a lab having accidentally spilled acid in his/her eyes. The user must move
 around the lab--blinded because of the acid--and try to find either an emergency shower to wash their eyes with, a
 cell phone to call for help, or 2 units of hydrogen and 1 unit of oxygen in order to make their own water to wash
-the acid out with.  The user has a limited amount of time in which to do this before they run out of time, become
-permanently blinded and lose the game.
+the acid out with.  There are tables in the lab that, due to the temporary blidness of the player, only become visible
+once the user has run into them. There is a limited amount of time for the user to save their sight using one of the
+three methods before becoming permanently blinded and losing the game.
